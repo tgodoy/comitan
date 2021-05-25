@@ -1,3 +1,4 @@
 # Rladies Capítulo Comitan.
+## 25 de mayo 2021
 
-Para el meetup del 25 de mayo del 2021 "Graficando con ggplot2" favor de bajar el archivo Rladies_Comitan_ggplot2.zip
+Para el meetup "Graficando con ggplot2" favor de bajar el archivo Rladies_Comitan_ggplot2.zip
